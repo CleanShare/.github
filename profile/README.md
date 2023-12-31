@@ -12,6 +12,12 @@ Need more control? Easily create your own custom rules with unique triggers and 
 
 Experience a new level of privacy and control with Clean Share, the ultimate solution for sharing links without tracking identifiers. Download now and embrace a cleaner, more private way of sharing.
 
+## Issues
+
+### [View Existing Issues](https://github.com/CleanShare/Issues/issues)
+
+### [Create New Issue](https://github.com/CleanShare/Issues/issues/new/choose)
+
 <!--
 
 **Here are some ideas to get you started:**
