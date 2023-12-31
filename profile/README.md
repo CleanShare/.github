@@ -20,4 +20,4 @@ Experience a new level of privacy and control with Clean Share, the ultimate sol
 
 ## Privacy Policy
 
-The Clean Share app does not collect any personally identifiable data or contain any analytics tracking. If you have any concerns, please raise a [new issue](https://github.com/CleanShare/Issues/issues/new/choose).
+See [here](https://github.com/CleanShare/Issues/blob/main/PrivacyPolicy.md)
